@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="save">Save</string>
+    <string name="hint_enter_your_note">Enter Your Note</string>
+    <string name="source">Source</string>
+    <string name="date">Date</string>
+    <string name="page">Page</string>
+    <string name="cancel">Cancel</string>
+    <string name="empty_text">No notes registered yet.</string>
+    <string name="next">Next</string>
+    <string name="tag">Tag (separate with , )</string>
+    <string name="add_update">Add / Update Note</string>
+    <!--    <string name=""></string>-->
+</resources>
